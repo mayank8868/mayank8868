@@ -97,19 +97,6 @@
 
 ---
 
-### 🏆 GitHub Trophy Wall
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayank8868&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 🌱 Contribution Heatmap
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank8868&theme=react-dark&area=true&hide_border=true" />
-</p>
 
 ---
 
