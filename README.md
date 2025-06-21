@@ -1,15 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mayank Yadav</h1>
+<h1 align="center">👋 Hi, I’m Mayank Yadav</h1>
+
 <p align="center">
-  🚀 Data Science & AI Enthusiast | 🤖 LLM + GenAI Developer | 🧠 ML/DL Practitioner  
-</p>
-
----
-
-### 👨‍💻 About Me
-
-🎓 I'm currently pursuing **B.Tech in Computer Science (Data Science)** at **KCC Institute of Technology and Management**, Noida (2022–2026).  
-💡 I'm passionate about solving real-world problems using AI, Machine Learning, and Data Engineering.  
+🎓 I'm currently pursuing **B.Tech in Computer Science (Data Science)** at **KCC Institute of Technology and Management**, Noida (2022–2026).
+🎯 I’m passionate about <strong>Data Science and AI</strong>, with a strong foundation in math and computer science — working towards becoming a skilled <strong>Data Scientist</strong> who builds smart, data-       powered solutions to real-world problems.
 📊 I love building intelligent apps with LLMs, NLP, and Computer Vision.
+</p>
 
 ---
 
@@ -94,9 +89,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mayank8868&show_icons=true&theme=tokyonight&hide=prs&count_private=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank8868&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
 </p>
-
----
-
 
 ---
 
