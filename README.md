@@ -98,13 +98,13 @@
 ---
 
 ### 🔗 Connect With Me
+<p align="left">
+  <a href="mailto:mynk4200@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mayank-yadav-84411b240/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/mayank8868"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/IcqjuCYKu9/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
 
-- 📧 [Email](mailto:mynk4200@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mayank-yadav-84411b240/)  
-- 👨‍💻 [GitHub](https://github.com/mayank8868)  
-- 🧠 [LeetCode](https://leetcode.com/u/IcqjuCYKu9/)
-
----
 
 ### ⚡ Fun Fact  
 I blend **Data Engineering** with **Generative AI** to build smart assistants, dashboards, and gesture-based experiences!
