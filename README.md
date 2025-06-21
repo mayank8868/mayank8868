@@ -88,11 +88,27 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayank8868&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank8868&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mayank8868&show_icons=true&theme=tokyonight&hide=prs&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank8868&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophy Wall
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayank8868&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🌱 Contribution Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank8868&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
