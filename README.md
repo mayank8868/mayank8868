@@ -15,19 +15,44 @@
 
 ### 🛠️ Tech Stack
 
-**Languages & Tools:**  
-`Python` `R` `SQL` `Git` `GitHub` `Jupyter`  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
-**Libraries & Frameworks:**  
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`  
-`Scikit-learn` `OpenCV` `PyTorch` `LangChain`  
+<p align="left">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-4061C8?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-47A7F5?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
 
-**Domains & Skills:**  
-`EDA` `Data Cleaning` `ML/DL Algorithms`  
-`LLM Applications` `LangChain` `NLP` `Vector DBs`  
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 
-**Data Tools:**  
-`Power BI` `Excel` `PySpark` `MongoDB` `MySQL`  
+<p align="left">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VectorDB-FF9900?style=for-the-badge&logoColor=white"/>
+</p>
+
 
 ---
 
